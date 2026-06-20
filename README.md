@@ -283,12 +283,6 @@ Screenshot hasil run aplikasi disimpan pada folder `screenshots/`.
 
 *Daftar pesanan user yang menampilkan status pesanan, cabang, total harga, dan akses ke detail pesanan.*
 
-### Detail Pesanan
-
-![Detail Pesanan](screenshots/order-detail.jpg)
-
-*Halaman detail pesanan yang menampilkan informasi pesanan, item pesanan, status, dan riwayat proses pesanan.*
-
 ### Notifikasi
 
 ![Notifikasi](screenshots/notifications.jpg)
