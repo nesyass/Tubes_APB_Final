@@ -239,103 +239,116 @@ flutter run
 
 ## Demo / Screenshot
 
-> *(Tambahkan screenshot aplikasi di folder `screenshots/` dan ganti path gambar di bawah ini)*
+Screenshot hasil run aplikasi disimpan pada folder `screenshots/`.
 
 ### Login Screen
 
-![Login Screen](screenshots/login.png)
+![Login Screen](screenshots/login.jpg)
 
-*Halaman login dengan opsi Sign In (email/password), masuk dengan Google, dan navigasi ke halaman Register.*
+*Halaman login dengan opsi Sign In menggunakan email/password, masuk dengan Google, dan navigasi ke halaman Register.*
 
 ### Register Screen
 
-![Register Screen](screenshots/register.png)
+![Register Screen](screenshots/register.jpg)
 
 *Form pendaftaran akun baru dengan field Nama Lengkap, Email, Nomor Telepon, Password, dan Confirm Password.*
 
-### Dashboard User (Home)
+### Dashboard User
 
-![Dashboard User](screenshots/user-dashboard.png)
+![Dashboard User](screenshots/user-dashboard.jpg)
 
 *Halaman utama user setelah login. Menampilkan sapaan, pemilih cabang, search bar, dan grid layanan yang tersedia.*
 
 ### Pilih Cabang
 
-![Pilih Cabang](screenshots/branch-picker.png)
+![Pilih Cabang](screenshots/branch-picker.jpg)
 
-*Bottom sheet untuk memilih cabang. Menampilkan nama cabang, alamat, dan status buka/tutup.*
+*Halaman pemilihan cabang. User dapat memilih cabang berdasarkan nama cabang, alamat, dan status operasional.*
 
 ### Detail Produk
 
-![Detail Produk](screenshots/product-detail.png)
+![Detail Produk](screenshots/product-detail.jpg)
 
-*Halaman detail layanan percetakan. User bisa upload file, mengatur ukuran cetak, quantity, dan melihat total harga.*
+*Halaman detail layanan percetakan. User dapat melihat detail layanan, mengatur pesanan, dan menambahkan item ke keranjang.*
 
 ### Keranjang
 
-![Keranjang](screenshots/cart.png)
+![Keranjang](screenshots/cart.jpg)
 
-*Halaman keranjang dengan multi-select item, total harga, dan tombol checkout.*
+*Halaman keranjang berisi daftar item pesanan user, total harga, dan proses checkout.*
 
-### Pesanan (User)
+### Pesanan User
 
-![Pesanan User](screenshots/user-orders.png)
+![Pesanan User](screenshots/user-orders.jpg)
 
-*Daftar pesanan user dengan status, cabang, total harga, dan tombol detail.*
+*Daftar pesanan user yang menampilkan status pesanan, cabang, total harga, dan akses ke detail pesanan.*
 
-### Detail & Riwayat Pesanan
+### Detail Pesanan
 
-![Detail Pesanan](screenshots/order-detail.png)
+![Detail Pesanan](screenshots/order-detail.jpg)
 
-*Detail pesanan lengkap dengan status saat ini, info pesanan, riwayat status (timeline), dan item pesanan.*
+*Halaman detail pesanan yang menampilkan informasi pesanan, item pesanan, status, dan riwayat proses pesanan.*
 
 ### Notifikasi
 
-![Notifikasi](screenshots/notifications.png)
+![Notifikasi](screenshots/notifications.jpg)
 
-*Halaman notifikasi user. Notifikasi muncul saat admin mengubah status pesanan menjadi "Siap Diambil".*
+*Halaman notifikasi user. Notifikasi ditampilkan saat terdapat perubahan status pesanan.*
 
-### Maps Cabang
+### Maps Cabang 1
 
-![Maps](screenshots/maps.png)
+![Maps Cabang 1](screenshots/maps1.jpg)
 
-*Peta OpenStreetMap menampilkan lokasi cabang-cabang Surindo Printing. User bisa melihat cabang terdekat dan mencari cabang.*
+*Tampilan peta cabang menggunakan OpenStreetMap untuk menampilkan lokasi cabang.*
+
+### Maps Cabang 2
+
+![Maps Cabang 2](screenshots/maps2.jpg)
+
+*Tampilan lanjutan fitur maps untuk melihat detail lokasi cabang.*
+
+### Maps Cabang 3
+
+![Maps Cabang 3](screenshots/maps3.jpg)
+
+*Tampilan fitur maps lainnya yang mendukung user dalam melihat atau memilih lokasi cabang.*
 
 ### Dashboard Admin
 
-![Dashboard Admin](screenshots/admin-dashboard.png)
+![Dashboard Admin](screenshots/admin-dashboard.jpg)
 
-*Halaman utama admin dengan tiga menu: Layanan, Cabang, dan Pesanan.*
+*Halaman utama admin dengan menu pengelolaan layanan, cabang, dan pesanan.*
 
-### Manajemen Layanan (Admin)
+### Manajemen Layanan Admin
 
-![Manajemen Layanan](screenshots/admin-services.png)
+![Manajemen Layanan](screenshots/admin-services.jpg)
 
-*Admin dapat menambah, mengedit, dan menghapus layanan percetakan serta mengatur status aktif/nonaktif.*
+*Admin dapat melihat dan mengelola daftar layanan percetakan.*
 
-### Form Tambah/Edit Layanan
+### Form Layanan Admin
 
-![Form Layanan](screenshots/admin-service-form.png)
+![Form Layanan](screenshots/admin-service-form.jpg)
 
-*Form untuk menambah/mengedit layanan. Admin bisa mengatur nama, harga, satuan, opsi, deskripsi, status, dan cabang.*
+*Form untuk menambah atau mengedit layanan percetakan, seperti nama layanan, harga, deskripsi, dan status layanan.*
 
-### Manajemen Cabang (Admin)
+### Manajemen Cabang Admin
 
-![Manajemen Cabang](screenshots/admin-branches.png)
+![Manajemen Cabang](screenshots/admin-branches.jpg)
 
-*Admin dapat menambah, mengedit, menghapus cabang, serta mengatur mode operasional (Otomatis/Buka Manual/Tutup Manual).*
+*Admin dapat menambah, mengedit, dan menghapus data cabang serta mengatur informasi operasional cabang.*
 
-### Manajemen Pesanan (Admin)
+### Manajemen Pesanan Admin
 
-![Manajemen Pesanan](screenshots/admin-orders.png)
+![Manajemen Pesanan](screenshots/admin-orders.jpg)
 
-*Admin melihat semua pesanan, filter berdasarkan status, dan mengubah status pesanan.*
+*Admin dapat melihat daftar pesanan, memfilter status pesanan, dan memperbarui status pesanan.*
 
 ### Profil User
 
-![Profil User](screenshots/user-profile.png)
+![Profil User](screenshots/user-profile.jpg)
 
-*Halaman profil user menampilkan nama, email, telepon, dengan opsi edit profil dan logout.*
+*Halaman profil user yang menampilkan informasi akun seperti nama, email, nomor telepon, serta opsi edit profil dan logout.*
+
 
 ---
 
