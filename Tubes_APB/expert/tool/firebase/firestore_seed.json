@@ -1,0 +1,1311 @@
+{
+  "branches": [
+    {
+      "id": 1,
+      "name": "Cabang Utama Dago",
+      "address": "Jl. Ir. H. Juanda No. 123, Bandung",
+      "latitude": -6.8915,
+      "longitude": 107.6107,
+      "isOpen": true,
+      "openHours": "08.00 - 22.00",
+      "rating": 4.8
+    },
+    {
+      "id": 2,
+      "name": "Cabang Buah Batu",
+      "address": "Jl. Buah Batu No. 50, Bandung",
+      "latitude": -6.9388,
+      "longitude": 107.6253,
+      "isOpen": true,
+      "openHours": "09.00 - 21.00",
+      "rating": 4.5
+    },
+    {
+      "id": 3,
+      "name": "Cabang Dipatiukur",
+      "address": "Jl. Dipati Ukur No. 80, Bandung",
+      "latitude": -6.8906,
+      "longitude": 107.6171,
+      "isOpen": false,
+      "openHours": "08.00 - 17.00",
+      "rating": 4.2
+    }
+  ],
+  "services": [
+    {
+      "id": 1,
+      "name": "Agenda",
+      "price": 15000,
+      "unit": "pcs",
+      "options": "Full Color,BW",
+      "description": "Agenda kategori Digital Offset, cocok untuk kebutuhan cetak custom, promosi, event, dan branding.",
+      "isActive": true,
+      "icon": "print_outlined",
+      "imageUrl": "https://zdxdarigmvwdmibuqeln.supabase.co/storage/v1/object/public/product-images/catalog/digital-offset/agenda-5a6c9db493.webp",
+      "branchIds": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Booklet",
+      "price": 18000,
+      "unit": "pcs",
+      "options": "Full Color,BW",
+      "description": "Booklet kategori Digital Offset, cocok untuk kebutuhan cetak custom, promosi, event, dan branding.",
+      "isActive": true,
+      "icon": "print_outlined",
+      "imageUrl": "https://zdxdarigmvwdmibuqeln.supabase.co/storage/v1/object/public/product-images/catalog/digital-offset/booklet-857240cb90.webp",
+      "branchIds": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Brosur",
+      "price": 1500,
+      "unit": "lembar",
+      "options": "Full Color,BW",
+      "description": "Brosur kategori Digital Offset, cocok untuk kebutuhan cetak custom, promosi, event, dan branding.",
+      "isActive": true,
+      "icon": "print_outlined",
+      "imageUrl": "https://zdxdarigmvwdmibuqeln.supabase.co/storage/v1/object/public/product-images/catalog/digital-offset/brosur-6231777d8d.webp",
+      "branchIds": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Buku",
+      "price": 25000,
+      "unit": "pcs",
+      "options": "Full Color,BW",
+      "description": "Buku kategori Digital Offset, cocok untuk kebutuhan cetak custom, promosi, event, dan branding.",
+      "isActive": true,
+      "icon": "print_outlined",
+      "imageUrl": "https://zdxdarigmvwdmibuqeln.supabase.co/storage/v1/object/public/product-images/catalog/digital-offset/buku-db76f715f5.webp",
+      "branchIds": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Company Profile",
+      "price": 15000,
+      "unit": "pcs",
+      "options": "Full Color,BW",
+      "description": "Company Profile kategori Digital Offset, cocok untuk kebutuhan cetak custom, promosi, event, dan branding.",
+      "isActive": true,
+      "icon": "print_outlined",
+      "imageUrl": "https://zdxdarigmvwdmibuqeln.supabase.co/storage/v1/object/public/product-images/catalog/digital-offset/company-profile-714515926b.webp",
+      "branchIds": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Cutting Sticker",
+      "price": 15000,
+      "unit": "pcs",
+      "options": "Glossy,Doff,Transparan",
+      "description": "Cutting Sticker kategori Digital Offset, cocok untuk kebutuhan cetak custom, promosi, event, dan branding.",
+      "isActive": true,
+      "icon": "print_outlined",
+      "imageUrl": "https://zdxdarigmvwdmibuqeln.supabase.co/storage/v1/object/public/product-images/catalog/digital-offset/cutting-sticker-7a5ddf543c.webp",
+      "branchIds": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Kalender Dinding",
+      "price": 25000,
+      "unit": "pcs",
+      "options": "Full Color,BW",
+      "description": "Kalender Dinding kategori Digital Offset, cocok untuk kebutuhan cetak custom, promosi, event, dan branding.",
+      "isActive": true,
+      "icon": "print_outlined",
+      "imageUrl": "https://zdxdarigmvwdmibuqeln.supabase.co/storage/v1/object/public/product-images/catalog/digital-offset/kalender-dinding-419b7c2dbf.webp",
+      "branchIds": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Kalender Meja",
+      "price": 25000,
+      "unit": "pcs",
+      "options": "Full Color,BW",
+      "description": "Kalender Meja kategori Digital Offset, cocok untuk kebutuhan cetak custom, promosi, event, dan branding.",
+      "isActive": true,
+      "icon": "print_outlined",
+      "imageUrl": "https://zdxdarigmvwdmibuqeln.supabase.co/storage/v1/object/public/product-images/catalog/digital-offset/kalender-meja-526dad8d1b.webp",
+      "branchIds": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Kartu Nama",
+      "price": 75000,
+      "unit": "box",
+      "options": "Full Color,BW",
+      "description": "Kartu Nama kategori Digital Offset, cocok untuk kebutuhan cetak custom, promosi, event, dan branding.",
+      "isActive": true,
+      "icon": "print_outlined",
+      "imageUrl": "https://zdxdarigmvwdmibuqeln.supabase.co/storage/v1/object/public/product-images/catalog/digital-offset/kartu-nama-4a505a4962.webp",
+      "branchIds": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Katalog",
+      "price": 18000,
+      "unit": "pcs",
+      "options": "Full Color,BW",
+      "description": "Katalog kategori Digital Offset, cocok untuk kebutuhan cetak custom, promosi, event, dan branding.",
+      "isActive": true,
+      "icon": "print_outlined",
+      "imageUrl": "https://zdxdarigmvwdmibuqeln.supabase.co/storage/v1/object/public/product-images/catalog/digital-offset/katalog-9a3223592c.webp",
+      "branchIds": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Lanyard ID Card",
+      "price": 15000,
+      "unit": "pcs",
+      "options": "Full Color,BW",
+      "description": "Lanyard ID Card kategori Digital Offset, cocok untuk kebutuhan cetak custom, promosi, event, dan branding.",
+      "isActive": true,
+      "icon": "print_outlined",
+      "imageUrl": "https://zdxdarigmvwdmibuqeln.supabase.co/storage/v1/object/public/product-images/catalog/digital-offset/lanyard-id-card-3e31342d13.webp",
+      "branchIds": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Poster",
+      "price": 8000,
+      "unit": "lembar",
+      "options": "A4,A3,A2,A1,A0",
+      "description": "Poster kategori Digital Offset, cocok untuk kebutuhan cetak custom, promosi, event, dan branding.",
+      "isActive": true,
+      "icon": "print_outlined",
+      "imageUrl": "https://zdxdarigmvwdmibuqeln.supabase.co/storage/v1/object/public/product-images/catalog/digital-offset/poster-111e8e04ce.webp",
+      "branchIds": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": 13,
+      "name": "Poster A0,A1,A2",
+      "price": 35000,
+      "unit": "lembar",
+      "options": "A4,A3,A2,A1,A0",
+      "description": "Poster A0,A1,A2 kategori Digital Offset, cocok untuk kebutuhan cetak custom, promosi, event, dan branding.",
+      "isActive": true,
+      "icon": "print_outlined",
+      "imageUrl": "https://zdxdarigmvwdmibuqeln.supabase.co/storage/v1/object/public/product-images/catalog/digital-offset/poster-a0-a1-a2-3eeed47425.webp",
+      "branchIds": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": 14,
+      "name": "Sertifikat",
+      "price": 3000,
+      "unit": "lembar",
+      "options": "A4,A3,A2,A1,A0",
+      "description": "Sertifikat kategori Digital Offset, cocok untuk kebutuhan cetak custom, promosi, event, dan branding.",
+      "isActive": true,
+      "icon": "print_outlined",
+      "imageUrl": "https://zdxdarigmvwdmibuqeln.supabase.co/storage/v1/object/public/product-images/catalog/digital-offset/sertifikat-e5f7e6271c.webp",
+      "branchIds": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": 15,
+      "name": "Undangan",
+      "price": 3500,
+      "unit": "pcs",
+      "options": "Full Color,BW",
+      "description": "Undangan kategori Digital Offset, cocok untuk kebutuhan cetak custom, promosi, event, dan branding.",
+      "isActive": true,
+      "icon": "print_outlined",
+      "imageUrl": "https://zdxdarigmvwdmibuqeln.supabase.co/storage/v1/object/public/product-images/catalog/digital-offset/undangan-039ec140c1.webp",
+      "branchIds": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": 16,
+      "name": "Yasin",
+      "price": 25000,
+      "unit": "pcs",
+      "options": "Full Color,BW",
+      "description": "Yasin kategori Digital Offset, cocok untuk kebutuhan cetak custom, promosi, event, dan branding.",
+      "isActive": true,
+      "icon": "print_outlined",
+      "imageUrl": "https://zdxdarigmvwdmibuqeln.supabase.co/storage/v1/object/public/product-images/catalog/digital-offset/yasin-5d60782a50.webp",
+      "branchIds": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": 17,
+      "name": "Backwall",
+      "price": 150000,
+      "unit": "pcs",
+      "options": "",
+      "description": "Backwall kategori Display Promosi, cocok untuk kebutuhan cetak custom, promosi, event, dan branding.",
+      "isActive": true,
+      "icon": "print_outlined",
+      "imageUrl": "https://zdxdarigmvwdmibuqeln.supabase.co/storage/v1/object/public/product-images/catalog/display-promosi/backwall-fcac21b3f5.webp",
+      "branchIds": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": 18,
+      "name": "Door Frame Banner",
+      "price": 120000,
+      "unit": "pcs",
+      "options": "",
+      "description": "Door Frame Banner kategori Display Promosi, cocok untuk kebutuhan cetak custom, promosi, event, dan branding.",
+      "isActive": true,
+      "icon": "print_outlined",
+      "imageUrl": "https://zdxdarigmvwdmibuqeln.supabase.co/storage/v1/object/public/product-images/catalog/display-promosi/door-frame-banner-dfd3b5398d.webp",
+      "branchIds": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": 19,
+      "name": "Event Desk",
+      "price": 150000,
+      "unit": "pcs",
+      "options": "",
+      "description": "Event Desk kategori Display Promosi, cocok untuk kebutuhan cetak custom, promosi, event, dan branding.",
+      "isActive": true,
+      "icon": "print_outlined",
+      "imageUrl": "https://zdxdarigmvwdmibuqeln.supabase.co/storage/v1/object/public/product-images/catalog/display-promosi/event-desk-12948a2900.webp",
+      "branchIds": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": 20,
+      "name": "Foam Board",
+      "price": 150000,
+      "unit": "pcs",
+      "options": "",
+      "description": "Foam Board kategori Display Promosi, cocok untuk kebutuhan cetak custom, promosi, event, dan branding.",
+      "isActive": true,
+      "icon": "print_outlined",
+      "imageUrl": "https://zdxdarigmvwdmibuqeln.supabase.co/storage/v1/object/public/product-images/catalog/display-promosi/foam-board-6b6e3ed0ee.webp",
+      "branchIds": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": 21,
+      "name": "Mini Banner",
+      "price": 120000,
+      "unit": "pcs",
+      "options": "",
+      "description": "Mini Banner kategori Display Promosi, cocok untuk kebutuhan cetak custom, promosi, event, dan branding.",
+      "isActive": true,
+      "icon": "print_outlined",
+      "imageUrl": "https://zdxdarigmvwdmibuqeln.supabase.co/storage/v1/object/public/product-images/catalog/display-promosi/mini-banner-aec4883dcb.webp",
+      "branchIds": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": 22,
+      "name": "Poly Counter",
+      "price": 150000,
+      "unit": "pcs",
+      "options": "",
+      "description": "Poly Counter kategori Display Promosi, cocok untuk kebutuhan cetak custom, promosi, event, dan branding.",
+      "isActive": true,
+      "icon": "print_outlined",
+      "imageUrl": "https://zdxdarigmvwdmibuqeln.supabase.co/storage/v1/object/public/product-images/catalog/display-promosi/poly-counter-d6d6ac01e5.webp",
+      "branchIds": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": 23,
+      "name": "Popup Counter",
+      "price": 150000,
+      "unit": "pcs",
+      "options": "",
+      "description": "Popup Counter kategori Display Promosi, cocok untuk kebutuhan cetak custom, promosi, event, dan branding.",
+      "isActive": true,
+      "icon": "print_outlined",
+      "imageUrl": "https://zdxdarigmvwdmibuqeln.supabase.co/storage/v1/object/public/product-images/catalog/display-promosi/popup-counter-dceb7d030b.webp",
+      "branchIds": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": 24,
+      "name": "Roll Up Banner",
+      "price": 250000,
+      "unit": "pcs",
+      "options": "",
+      "description": "Roll Up Banner kategori Display Promosi, cocok untuk kebutuhan cetak custom, promosi, event, dan branding.",
+      "isActive": true,
+      "icon": "print_outlined",
+      "imageUrl": "https://zdxdarigmvwdmibuqeln.supabase.co/storage/v1/object/public/product-images/catalog/display-promosi/roll-up-banner-7cbbd4c327.webp",
+      "branchIds": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": 25,
+      "name": "Tripod Banner",
+      "price": 120000,
+      "unit": "pcs",
+      "options": "",
+      "description": "Tripod Banner kategori Display Promosi, cocok untuk kebutuhan cetak custom, promosi, event, dan branding.",
+      "isActive": true,
+      "icon": "print_outlined",
+      "imageUrl": "https://zdxdarigmvwdmibuqeln.supabase.co/storage/v1/object/public/product-images/catalog/display-promosi/tripod-banner-c1e767f957.webp",
+      "branchIds": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": 26,
+      "name": "Y Banner",
+      "price": 120000,
+      "unit": "pcs",
+      "options": "",
+      "description": "Y Banner kategori Display Promosi, cocok untuk kebutuhan cetak custom, promosi, event, dan branding.",
+      "isActive": true,
+      "icon": "print_outlined",
+      "imageUrl": "https://zdxdarigmvwdmibuqeln.supabase.co/storage/v1/object/public/product-images/catalog/display-promosi/y-banner-f5ae19e492.webp",
+      "branchIds": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": 27,
+      "name": "Backdrop",
+      "price": 30000,
+      "unit": "meter",
+      "options": "",
+      "description": "Backdrop kategori Large Format Printing, cocok untuk kebutuhan cetak custom, promosi, event, dan branding.",
+      "isActive": true,
+      "icon": "print_outlined",
+      "imageUrl": "https://zdxdarigmvwdmibuqeln.supabase.co/storage/v1/object/public/product-images/catalog/large-format-printing/backdrop-c62e0591a9.webp",
+      "branchIds": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": 28,
+      "name": "Baliho",
+      "price": 45000,
+      "unit": "meter",
+      "options": "Indoor,Outdoor",
+      "description": "Baliho kategori Large Format Printing, cocok untuk kebutuhan cetak custom, promosi, event, dan branding.",
+      "isActive": true,
+      "icon": "print_outlined",
+      "imageUrl": "https://zdxdarigmvwdmibuqeln.supabase.co/storage/v1/object/public/product-images/catalog/large-format-printing/baliho-7345402909.webp",
+      "branchIds": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": 29,
+      "name": "Cloth Banner",
+      "price": 120000,
+      "unit": "pcs",
+      "options": "",
+      "description": "Cloth Banner kategori Large Format Printing, cocok untuk kebutuhan cetak custom, promosi, event, dan branding.",
+      "isActive": true,
+      "icon": "print_outlined",
+      "imageUrl": "https://zdxdarigmvwdmibuqeln.supabase.co/storage/v1/object/public/product-images/catalog/large-format-printing/cloth-banner-7883752dea.webp",
+      "branchIds": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": 30,
+      "name": "Neon Box",
+      "price": 350000,
+      "unit": "pcs",
+      "options": "",
+      "description": "Neon Box kategori Large Format Printing, cocok untuk kebutuhan cetak custom, promosi, event, dan branding.",
+      "isActive": true,
+      "icon": "print_outlined",
+      "imageUrl": "https://zdxdarigmvwdmibuqeln.supabase.co/storage/v1/object/public/product-images/catalog/large-format-printing/neon-box-a1773f4d51.webp",
+      "branchIds": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": 31,
+      "name": "Print Canvas",
+      "price": 30000,
+      "unit": "meter",
+      "options": "",
+      "description": "Print Canvas kategori Large Format Printing, cocok untuk kebutuhan cetak custom, promosi, event, dan branding.",
+      "isActive": true,
+      "icon": "print_outlined",
+      "imageUrl": "https://zdxdarigmvwdmibuqeln.supabase.co/storage/v1/object/public/product-images/catalog/large-format-printing/print-canvas-4317c0bc26.webp",
+      "branchIds": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": 32,
+      "name": "Spanduk",
+      "price": 25000,
+      "unit": "meter",
+      "options": "Indoor,Outdoor",
+      "description": "Spanduk kategori Large Format Printing, cocok untuk kebutuhan cetak custom, promosi, event, dan branding.",
+      "isActive": true,
+      "icon": "print_outlined",
+      "imageUrl": "https://zdxdarigmvwdmibuqeln.supabase.co/storage/v1/object/public/product-images/catalog/large-format-printing/spanduk-fc91c2fc7a.webp",
+      "branchIds": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": 33,
+      "name": "Aksesoris Photobooth",
+      "price": 30000,
+      "unit": "pcs",
+      "options": "",
+      "description": "Aksesoris Photobooth kategori Merchandise, cocok untuk kebutuhan cetak custom, promosi, event, dan branding.",
+      "isActive": true,
+      "icon": "print_outlined",
+      "imageUrl": "https://zdxdarigmvwdmibuqeln.supabase.co/storage/v1/object/public/product-images/catalog/merchandise/aksesoris-photobooth-25f52088bc.webp",
+      "branchIds": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": 34,
+      "name": "Asbak Sablon",
+      "price": 30000,
+      "unit": "pcs",
+      "options": "",
+      "description": "Asbak Sablon kategori Merchandise, cocok untuk kebutuhan cetak custom, promosi, event, dan branding.",
+      "isActive": true,
+      "icon": "print_outlined",
+      "imageUrl": "https://zdxdarigmvwdmibuqeln.supabase.co/storage/v1/object/public/product-images/catalog/merchandise/asbak-sablon-7431b1281a.webp",
+      "branchIds": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": 35,
+      "name": "Gantungan Kunci Pin",
+      "price": 30000,
+      "unit": "pcs",
+      "options": "",
+      "description": "Gantungan Kunci Pin kategori Merchandise, cocok untuk kebutuhan cetak custom, promosi, event, dan branding.",
+      "isActive": true,
+      "icon": "print_outlined",
+      "imageUrl": "https://zdxdarigmvwdmibuqeln.supabase.co/storage/v1/object/public/product-images/catalog/merchandise/gantungan-kunci-pin-9f12f35acf.webp",
+      "branchIds": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": 36,
+      "name": "Jam Dinding",
+      "price": 30000,
+      "unit": "pcs",
+      "options": "",
+      "description": "Jam Dinding kategori Merchandise, cocok untuk kebutuhan cetak custom, promosi, event, dan branding.",
+      "isActive": true,
+      "icon": "print_outlined",
+      "imageUrl": "https://zdxdarigmvwdmibuqeln.supabase.co/storage/v1/object/public/product-images/catalog/merchandise/jam-dinding-d8de06eedb.webp",
+      "branchIds": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": 37,
+      "name": "Jam Dinding Akrilik CUstom",
+      "price": 30000,
+      "unit": "pcs",
+      "options": "",
+      "description": "Jam Dinding Akrilik CUstom kategori Merchandise, cocok untuk kebutuhan cetak custom, promosi, event, dan branding.",
+      "isActive": true,
+      "icon": "print_outlined",
+      "imageUrl": "https://zdxdarigmvwdmibuqeln.supabase.co/storage/v1/object/public/product-images/catalog/merchandise/jam-dinding-akrilik-custom-3afb28720e.webp",
+      "branchIds": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": 38,
+      "name": "Kipas Custom",
+      "price": 30000,
+      "unit": "pcs",
+      "options": "",
+      "description": "Kipas Custom kategori Merchandise, cocok untuk kebutuhan cetak custom, promosi, event, dan branding.",
+      "isActive": true,
+      "icon": "print_outlined",
+      "imageUrl": "https://zdxdarigmvwdmibuqeln.supabase.co/storage/v1/object/public/product-images/catalog/merchandise/kipas-custom-43502b7fae.webp",
+      "branchIds": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": 39,
+      "name": "Medali Akrilik Custom",
+      "price": 30000,
+      "unit": "pcs",
+      "options": "",
+      "description": "Medali Akrilik Custom kategori Merchandise, cocok untuk kebutuhan cetak custom, promosi, event, dan branding.",
+      "isActive": true,
+      "icon": "print_outlined",
+      "imageUrl": "https://zdxdarigmvwdmibuqeln.supabase.co/storage/v1/object/public/product-images/catalog/merchandise/medali-akrilik-custom-7e5109312b.webp",
+      "branchIds": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": 40,
+      "name": "Payung Branding",
+      "price": 30000,
+      "unit": "pcs",
+      "options": "",
+      "description": "Payung Branding kategori Merchandise, cocok untuk kebutuhan cetak custom, promosi, event, dan branding.",
+      "isActive": true,
+      "icon": "print_outlined",
+      "imageUrl": "https://zdxdarigmvwdmibuqeln.supabase.co/storage/v1/object/public/product-images/catalog/merchandise/payung-branding-98fba8e1d4.webp",
+      "branchIds": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": 41,
+      "name": "Pin Akrilik Peniti",
+      "price": 30000,
+      "unit": "pcs",
+      "options": "",
+      "description": "Pin Akrilik Peniti kategori Merchandise, cocok untuk kebutuhan cetak custom, promosi, event, dan branding.",
+      "isActive": true,
+      "icon": "print_outlined",
+      "imageUrl": "https://zdxdarigmvwdmibuqeln.supabase.co/storage/v1/object/public/product-images/catalog/merchandise/pin-akrilik-peniti-d8c227eab7.webp",
+      "branchIds": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": 42,
+      "name": "Pin Bulat Peniti",
+      "price": 30000,
+      "unit": "pcs",
+      "options": "",
+      "description": "Pin Bulat Peniti kategori Merchandise, cocok untuk kebutuhan cetak custom, promosi, event, dan branding.",
+      "isActive": true,
+      "icon": "print_outlined",
+      "imageUrl": "https://zdxdarigmvwdmibuqeln.supabase.co/storage/v1/object/public/product-images/catalog/merchandise/pin-bulat-peniti-b3f0616d13.webp",
+      "branchIds": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": 43,
+      "name": "Seminar Kit",
+      "price": 30000,
+      "unit": "pcs",
+      "options": "",
+      "description": "Seminar Kit kategori Merchandise, cocok untuk kebutuhan cetak custom, promosi, event, dan branding.",
+      "isActive": true,
+      "icon": "print_outlined",
+      "imageUrl": "https://zdxdarigmvwdmibuqeln.supabase.co/storage/v1/object/public/product-images/catalog/merchandise/seminar-kit-9c06da23a3.webp",
+      "branchIds": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": 44,
+      "name": "Topper Cake",
+      "price": 30000,
+      "unit": "pcs",
+      "options": "",
+      "description": "Topper Cake kategori Merchandise, cocok untuk kebutuhan cetak custom, promosi, event, dan branding.",
+      "isActive": true,
+      "icon": "print_outlined",
+      "imageUrl": "https://zdxdarigmvwdmibuqeln.supabase.co/storage/v1/object/public/product-images/catalog/merchandise/topper-cake-8eb3ca9357.webp",
+      "branchIds": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": 45,
+      "name": "Cup Plastik Sablon",
+      "price": 2500,
+      "unit": "pcs",
+      "options": "",
+      "description": "Cup Plastik Sablon kategori Packaging, cocok untuk kebutuhan cetak custom, promosi, event, dan branding.",
+      "isActive": true,
+      "icon": "print_outlined",
+      "imageUrl": "https://zdxdarigmvwdmibuqeln.supabase.co/storage/v1/object/public/product-images/catalog/packaging/cup-plastik-sablon-6ae0115e99.webp",
+      "branchIds": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": 46,
+      "name": "Cup Plastik Sablon Premium",
+      "price": 2500,
+      "unit": "pcs",
+      "options": "",
+      "description": "Cup Plastik Sablon Premium kategori Packaging, cocok untuk kebutuhan cetak custom, promosi, event, dan branding.",
+      "isActive": true,
+      "icon": "print_outlined",
+      "imageUrl": "https://zdxdarigmvwdmibuqeln.supabase.co/storage/v1/object/public/product-images/catalog/packaging/cup-plastik-sablon-premium-a60c0af709.webp",
+      "branchIds": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": 47,
+      "name": "Hang Tag",
+      "price": 5000,
+      "unit": "pcs",
+      "options": "",
+      "description": "Hang Tag kategori Packaging, cocok untuk kebutuhan cetak custom, promosi, event, dan branding.",
+      "isActive": true,
+      "icon": "print_outlined",
+      "imageUrl": "https://zdxdarigmvwdmibuqeln.supabase.co/storage/v1/object/public/product-images/catalog/packaging/hang-tag-2e91ec68fe.webp",
+      "branchIds": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": 48,
+      "name": "Kotak Kemasan",
+      "price": 5000,
+      "unit": "pcs",
+      "options": "",
+      "description": "Kotak Kemasan kategori Packaging, cocok untuk kebutuhan cetak custom, promosi, event, dan branding.",
+      "isActive": true,
+      "icon": "print_outlined",
+      "imageUrl": "https://zdxdarigmvwdmibuqeln.supabase.co/storage/v1/object/public/product-images/catalog/packaging/kotak-kemasan-fff84589d0.webp",
+      "branchIds": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": 49,
+      "name": "Label Bento",
+      "price": 500,
+      "unit": "pcs",
+      "options": "Glossy,Doff,Transparan",
+      "description": "Label Bento kategori Packaging, cocok untuk kebutuhan cetak custom, promosi, event, dan branding.",
+      "isActive": true,
+      "icon": "print_outlined",
+      "imageUrl": "https://zdxdarigmvwdmibuqeln.supabase.co/storage/v1/object/public/product-images/catalog/packaging/label-bento-79206d6bd6.webp",
+      "branchIds": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": 50,
+      "name": "Label Hijab,Baju",
+      "price": 500,
+      "unit": "pcs",
+      "options": "Glossy,Doff,Transparan",
+      "description": "Label Hijab,Baju kategori Packaging, cocok untuk kebutuhan cetak custom, promosi, event, dan branding.",
+      "isActive": true,
+      "icon": "print_outlined",
+      "imageUrl": "https://zdxdarigmvwdmibuqeln.supabase.co/storage/v1/object/public/product-images/catalog/packaging/label-hijab-baju-50dff12791.webp",
+      "branchIds": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": 51,
+      "name": "Paper Bag",
+      "price": 7500,
+      "unit": "pcs",
+      "options": "",
+      "description": "Paper Bag kategori Packaging, cocok untuk kebutuhan cetak custom, promosi, event, dan branding.",
+      "isActive": true,
+      "icon": "print_outlined",
+      "imageUrl": "https://zdxdarigmvwdmibuqeln.supabase.co/storage/v1/object/public/product-images/catalog/packaging/paper-bag-fdb53f2dcf.webp",
+      "branchIds": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": 52,
+      "name": "Standing Pouch",
+      "price": 8000,
+      "unit": "pcs",
+      "options": "",
+      "description": "Standing Pouch kategori Packaging, cocok untuk kebutuhan cetak custom, promosi, event, dan branding.",
+      "isActive": true,
+      "icon": "print_outlined",
+      "imageUrl": "https://zdxdarigmvwdmibuqeln.supabase.co/storage/v1/object/public/product-images/catalog/packaging/standing-pouch-6a59f00452.webp",
+      "branchIds": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": 53,
+      "name": "Plakat Akrilik Hadiah",
+      "price": 150000,
+      "unit": "pcs",
+      "options": "Akrilik,Kayu,Fiber",
+      "description": "Plakat Akrilik Hadiah kategori Plakat, cocok untuk kebutuhan cetak custom, promosi, event, dan branding.",
+      "isActive": true,
+      "icon": "print_outlined",
+      "imageUrl": "https://zdxdarigmvwdmibuqeln.supabase.co/storage/v1/object/public/product-images/catalog/plakat/plakat-akrilik-hadiah-9e210459c6.webp",
+      "branchIds": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": 54,
+      "name": "Plakat Akrilik LED RGB",
+      "price": 150000,
+      "unit": "pcs",
+      "options": "Akrilik,Kayu,Fiber",
+      "description": "Plakat Akrilik LED RGB kategori Plakat, cocok untuk kebutuhan cetak custom, promosi, event, dan branding.",
+      "isActive": true,
+      "icon": "print_outlined",
+      "imageUrl": "https://zdxdarigmvwdmibuqeln.supabase.co/storage/v1/object/public/product-images/catalog/plakat/plakat-akrilik-led-rgb-824277e1c5.webp",
+      "branchIds": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": 55,
+      "name": "Plakat Akrilik Premium",
+      "price": 150000,
+      "unit": "pcs",
+      "options": "Akrilik,Kayu,Fiber",
+      "description": "Plakat Akrilik Premium kategori Plakat, cocok untuk kebutuhan cetak custom, promosi, event, dan branding.",
+      "isActive": true,
+      "icon": "print_outlined",
+      "imageUrl": "https://zdxdarigmvwdmibuqeln.supabase.co/storage/v1/object/public/product-images/catalog/plakat/plakat-akrilik-premium-d92567f85a.webp",
+      "branchIds": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": 56,
+      "name": "Plakat Akrilik Tapak Fiber",
+      "price": 150000,
+      "unit": "pcs",
+      "options": "Akrilik,Kayu,Fiber",
+      "description": "Plakat Akrilik Tapak Fiber kategori Plakat, cocok untuk kebutuhan cetak custom, promosi, event, dan branding.",
+      "isActive": true,
+      "icon": "print_outlined",
+      "imageUrl": "https://zdxdarigmvwdmibuqeln.supabase.co/storage/v1/object/public/product-images/catalog/plakat/plakat-akrilik-tapak-fiber-e76803ad67.webp",
+      "branchIds": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": 57,
+      "name": "Plakat Akrilik Tapak Kayu",
+      "price": 150000,
+      "unit": "pcs",
+      "options": "Akrilik,Kayu,Fiber",
+      "description": "Plakat Akrilik Tapak Kayu kategori Plakat, cocok untuk kebutuhan cetak custom, promosi, event, dan branding.",
+      "isActive": true,
+      "icon": "print_outlined",
+      "imageUrl": "https://zdxdarigmvwdmibuqeln.supabase.co/storage/v1/object/public/product-images/catalog/plakat/plakat-akrilik-tapak-kayu-5919755faa.webp",
+      "branchIds": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": 58,
+      "name": "Plakat Insert Paper",
+      "price": 150000,
+      "unit": "pcs",
+      "options": "Akrilik,Kayu,Fiber",
+      "description": "Plakat Insert Paper kategori Plakat, cocok untuk kebutuhan cetak custom, promosi, event, dan branding.",
+      "isActive": true,
+      "icon": "print_outlined",
+      "imageUrl": "https://zdxdarigmvwdmibuqeln.supabase.co/storage/v1/object/public/product-images/catalog/plakat/plakat-insert-paper-08e1c32dcd.webp",
+      "branchIds": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": 59,
+      "name": "Plakat Kotak Kuningan",
+      "price": 150000,
+      "unit": "pcs",
+      "options": "Akrilik,Kayu,Fiber",
+      "description": "Plakat Kotak Kuningan kategori Plakat, cocok untuk kebutuhan cetak custom, promosi, event, dan branding.",
+      "isActive": true,
+      "icon": "print_outlined",
+      "imageUrl": "https://zdxdarigmvwdmibuqeln.supabase.co/storage/v1/object/public/product-images/catalog/plakat/plakat-kotak-kuningan-deddbcd1c6.webp",
+      "branchIds": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": 60,
+      "name": "Plakat Kotak Songket",
+      "price": 150000,
+      "unit": "pcs",
+      "options": "Akrilik,Kayu,Fiber",
+      "description": "Plakat Kotak Songket kategori Plakat, cocok untuk kebutuhan cetak custom, promosi, event, dan branding.",
+      "isActive": true,
+      "icon": "print_outlined",
+      "imageUrl": "https://zdxdarigmvwdmibuqeln.supabase.co/storage/v1/object/public/product-images/catalog/plakat/plakat-kotak-songket-3b75d5bf17.webp",
+      "branchIds": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": 61,
+      "name": "Hoodie Sweater",
+      "price": 125000,
+      "unit": "pcs",
+      "options": "S,M,L,XL,XXL",
+      "description": "Hoodie Sweater kategori Sablon Kaos & Garment, cocok untuk kebutuhan cetak custom, promosi, event, dan branding.",
+      "isActive": true,
+      "icon": "print_outlined",
+      "imageUrl": "https://zdxdarigmvwdmibuqeln.supabase.co/storage/v1/object/public/product-images/catalog/sablon-kaos-and-garment/hoodie-sweater-3486ce56d9.webp",
+      "branchIds": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": 62,
+      "name": "Kaos Sablon Custom Lusinan",
+      "price": 85000,
+      "unit": "pcs",
+      "options": "S,M,L,XL,XXL",
+      "description": "Kaos Sablon Custom Lusinan kategori Sablon Kaos & Garment, cocok untuk kebutuhan cetak custom, promosi, event, dan branding.",
+      "isActive": true,
+      "icon": "print_outlined",
+      "imageUrl": "https://zdxdarigmvwdmibuqeln.supabase.co/storage/v1/object/public/product-images/catalog/sablon-kaos-and-garment/kaos-sablon-custom-lusinan-63167a6b69.webp",
+      "branchIds": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": 63,
+      "name": "Kaos Sablon DTF Custom",
+      "price": 85000,
+      "unit": "pcs",
+      "options": "S,M,L,XL,XXL",
+      "description": "Kaos Sablon DTF Custom kategori Sablon Kaos & Garment, cocok untuk kebutuhan cetak custom, promosi, event, dan branding.",
+      "isActive": true,
+      "icon": "print_outlined",
+      "imageUrl": "https://zdxdarigmvwdmibuqeln.supabase.co/storage/v1/object/public/product-images/catalog/sablon-kaos-and-garment/kaos-sablon-dtf-custom-2d521dfb1b.webp",
+      "branchIds": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": 64,
+      "name": "Kaos Sablon Printable",
+      "price": 85000,
+      "unit": "pcs",
+      "options": "S,M,L,XL,XXL",
+      "description": "Kaos Sablon Printable kategori Sablon Kaos & Garment, cocok untuk kebutuhan cetak custom, promosi, event, dan branding.",
+      "isActive": true,
+      "icon": "print_outlined",
+      "imageUrl": "https://zdxdarigmvwdmibuqeln.supabase.co/storage/v1/object/public/product-images/catalog/sablon-kaos-and-garment/kaos-sablon-printable-699cf978d8.webp",
+      "branchIds": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": 65,
+      "name": "Polo Shirt Bordir",
+      "price": 95000,
+      "unit": "pcs",
+      "options": "S,M,L,XL,XXL",
+      "description": "Polo Shirt Bordir kategori Sablon Kaos & Garment, cocok untuk kebutuhan cetak custom, promosi, event, dan branding.",
+      "isActive": true,
+      "icon": "print_outlined",
+      "imageUrl": "https://zdxdarigmvwdmibuqeln.supabase.co/storage/v1/object/public/product-images/catalog/sablon-kaos-and-garment/polo-shirt-bordir-8e1876988a.webp",
+      "branchIds": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": 66,
+      "name": "Sablon Reflective",
+      "price": 85000,
+      "unit": "pcs",
+      "options": "S,M,L,XL,XXL",
+      "description": "Sablon Reflective kategori Sablon Kaos & Garment, cocok untuk kebutuhan cetak custom, promosi, event, dan branding.",
+      "isActive": true,
+      "icon": "print_outlined",
+      "imageUrl": "https://zdxdarigmvwdmibuqeln.supabase.co/storage/v1/object/public/product-images/catalog/sablon-kaos-and-garment/sablon-reflective-f493056aea.webp",
+      "branchIds": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": 67,
+      "name": "Selempang Wisuda",
+      "price": 85000,
+      "unit": "pcs",
+      "options": "S,M,L,XL,XXL",
+      "description": "Selempang Wisuda kategori Sablon Kaos & Garment, cocok untuk kebutuhan cetak custom, promosi, event, dan branding.",
+      "isActive": true,
+      "icon": "print_outlined",
+      "imageUrl": "https://zdxdarigmvwdmibuqeln.supabase.co/storage/v1/object/public/product-images/catalog/sablon-kaos-and-garment/selempang-wisuda-e7bc05f73b.webp",
+      "branchIds": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": 68,
+      "name": "Topi Rimba Bordir",
+      "price": 85000,
+      "unit": "pcs",
+      "options": "S,M,L,XL,XXL",
+      "description": "Topi Rimba Bordir kategori Sablon Kaos & Garment, cocok untuk kebutuhan cetak custom, promosi, event, dan branding.",
+      "isActive": true,
+      "icon": "print_outlined",
+      "imageUrl": "https://zdxdarigmvwdmibuqeln.supabase.co/storage/v1/object/public/product-images/catalog/sablon-kaos-and-garment/topi-rimba-bordir-883687acb6.webp",
+      "branchIds": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": 69,
+      "name": "Bendera Drill Premium",
+      "price": 30000,
+      "unit": "pcs",
+      "options": "",
+      "description": "Bendera Drill Premium kategori Sublime, cocok untuk kebutuhan cetak custom, promosi, event, dan branding.",
+      "isActive": true,
+      "icon": "print_outlined",
+      "imageUrl": "https://zdxdarigmvwdmibuqeln.supabase.co/storage/v1/object/public/product-images/catalog/sublime/bendera-drill-premium-7aa981592c.webp",
+      "branchIds": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": 70,
+      "name": "Bendera Printing",
+      "price": 30000,
+      "unit": "pcs",
+      "options": "",
+      "description": "Bendera Printing kategori Sublime, cocok untuk kebutuhan cetak custom, promosi, event, dan branding.",
+      "isActive": true,
+      "icon": "print_outlined",
+      "imageUrl": "https://zdxdarigmvwdmibuqeln.supabase.co/storage/v1/object/public/product-images/catalog/sublime/bendera-printing-c7fd4d5a77.webp",
+      "branchIds": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": 71,
+      "name": "Bendera Satin",
+      "price": 30000,
+      "unit": "pcs",
+      "options": "",
+      "description": "Bendera Satin kategori Sublime, cocok untuk kebutuhan cetak custom, promosi, event, dan branding.",
+      "isActive": true,
+      "icon": "print_outlined",
+      "imageUrl": "https://zdxdarigmvwdmibuqeln.supabase.co/storage/v1/object/public/product-images/catalog/sublime/bendera-satin-8cc8c366ee.webp",
+      "branchIds": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": 72,
+      "name": "Bendera TC",
+      "price": 30000,
+      "unit": "pcs",
+      "options": "",
+      "description": "Bendera TC kategori Sublime, cocok untuk kebutuhan cetak custom, promosi, event, dan branding.",
+      "isActive": true,
+      "icon": "print_outlined",
+      "imageUrl": "https://zdxdarigmvwdmibuqeln.supabase.co/storage/v1/object/public/product-images/catalog/sublime/bendera-tc-cb745ce525.webp",
+      "branchIds": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": 73,
+      "name": "Hijab",
+      "price": 30000,
+      "unit": "pcs",
+      "options": "",
+      "description": "Hijab kategori Sublime, cocok untuk kebutuhan cetak custom, promosi, event, dan branding.",
+      "isActive": true,
+      "icon": "print_outlined",
+      "imageUrl": "https://zdxdarigmvwdmibuqeln.supabase.co/storage/v1/object/public/product-images/catalog/sublime/hijab-6d7cd4b210.webp",
+      "branchIds": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": 74,
+      "name": "Sajadah",
+      "price": 30000,
+      "unit": "pcs",
+      "options": "",
+      "description": "Sajadah kategori Sublime, cocok untuk kebutuhan cetak custom, promosi, event, dan branding.",
+      "isActive": true,
+      "icon": "print_outlined",
+      "imageUrl": "https://zdxdarigmvwdmibuqeln.supabase.co/storage/v1/object/public/product-images/catalog/sublime/sajadah-61141fa1a6.webp",
+      "branchIds": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": 75,
+      "name": "Spanduk Kain Full Print",
+      "price": 25000,
+      "unit": "meter",
+      "options": "Indoor,Outdoor",
+      "description": "Spanduk Kain Full Print kategori Sublime, cocok untuk kebutuhan cetak custom, promosi, event, dan branding.",
+      "isActive": true,
+      "icon": "print_outlined",
+      "imageUrl": "https://zdxdarigmvwdmibuqeln.supabase.co/storage/v1/object/public/product-images/catalog/sublime/spanduk-kain-full-print-2c1f77dbc2.webp",
+      "branchIds": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": 76,
+      "name": "Taplak Meja",
+      "price": 30000,
+      "unit": "pcs",
+      "options": "",
+      "description": "Taplak Meja kategori Sublime, cocok untuk kebutuhan cetak custom, promosi, event, dan branding.",
+      "isActive": true,
+      "icon": "print_outlined",
+      "imageUrl": "https://zdxdarigmvwdmibuqeln.supabase.co/storage/v1/object/public/product-images/catalog/sublime/taplak-meja-c1d8404094.webp",
+      "branchIds": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": 77,
+      "name": "Umbul-umbul",
+      "price": 30000,
+      "unit": "pcs",
+      "options": "",
+      "description": "Umbul-umbul kategori Sublime, cocok untuk kebutuhan cetak custom, promosi, event, dan branding.",
+      "isActive": true,
+      "icon": "print_outlined",
+      "imageUrl": "https://zdxdarigmvwdmibuqeln.supabase.co/storage/v1/object/public/product-images/catalog/sublime/umbul-umbul-a30dd23dbc.webp",
+      "branchIds": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": 78,
+      "name": "Botol Sport Alumunium",
+      "price": 65000,
+      "unit": "pcs",
+      "options": "Putih,Hitam,Silver",
+      "description": "Botol Sport Alumunium kategori Tumbler, cocok untuk kebutuhan cetak custom, promosi, event, dan branding.",
+      "isActive": true,
+      "icon": "print_outlined",
+      "imageUrl": "https://zdxdarigmvwdmibuqeln.supabase.co/storage/v1/object/public/product-images/catalog/tumbler/botol-sport-alumunium-3b714fe782.webp",
+      "branchIds": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": 79,
+      "name": "Tumbler Set Termos",
+      "price": 65000,
+      "unit": "pcs",
+      "options": "Putih,Hitam,Silver",
+      "description": "Tumbler Set Termos kategori Tumbler, cocok untuk kebutuhan cetak custom, promosi, event, dan branding.",
+      "isActive": true,
+      "icon": "print_outlined",
+      "imageUrl": "https://zdxdarigmvwdmibuqeln.supabase.co/storage/v1/object/public/product-images/catalog/tumbler/tumbler-set-termos-c2531c9bfb.webp",
+      "branchIds": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": 80,
+      "name": "Tumbler Stainless Ace",
+      "price": 65000,
+      "unit": "pcs",
+      "options": "Putih,Hitam,Silver",
+      "description": "Tumbler Stainless Ace kategori Tumbler, cocok untuk kebutuhan cetak custom, promosi, event, dan branding.",
+      "isActive": true,
+      "icon": "print_outlined",
+      "imageUrl": "https://zdxdarigmvwdmibuqeln.supabase.co/storage/v1/object/public/product-images/catalog/tumbler/tumbler-stainless-ace-28092521c0.webp",
+      "branchIds": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": 81,
+      "name": "Tumbler Stainless Life",
+      "price": 65000,
+      "unit": "pcs",
+      "options": "Putih,Hitam,Silver",
+      "description": "Tumbler Stainless Life kategori Tumbler, cocok untuk kebutuhan cetak custom, promosi, event, dan branding.",
+      "isActive": true,
+      "icon": "print_outlined",
+      "imageUrl": "https://zdxdarigmvwdmibuqeln.supabase.co/storage/v1/object/public/product-images/catalog/tumbler/tumbler-stainless-life-fabb293a52.webp",
+      "branchIds": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": 82,
+      "name": "Tumbler Stainless Life LED",
+      "price": 65000,
+      "unit": "pcs",
+      "options": "Putih,Hitam,Silver",
+      "description": "Tumbler Stainless Life LED kategori Tumbler, cocok untuk kebutuhan cetak custom, promosi, event, dan branding.",
+      "isActive": true,
+      "icon": "print_outlined",
+      "imageUrl": "https://zdxdarigmvwdmibuqeln.supabase.co/storage/v1/object/public/product-images/catalog/tumbler/tumbler-stainless-life-led-9a9431a09e.webp",
+      "branchIds": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": 83,
+      "name": "Tumbler Stainless Niagara",
+      "price": 65000,
+      "unit": "pcs",
+      "options": "Putih,Hitam,Silver",
+      "description": "Tumbler Stainless Niagara kategori Tumbler, cocok untuk kebutuhan cetak custom, promosi, event, dan branding.",
+      "isActive": true,
+      "icon": "print_outlined",
+      "imageUrl": "https://zdxdarigmvwdmibuqeln.supabase.co/storage/v1/object/public/product-images/catalog/tumbler/tumbler-stainless-niagara-2a25f7ed33.webp",
+      "branchIds": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": 84,
+      "name": "Tumbler Stainless Travel Mini",
+      "price": 65000,
+      "unit": "pcs",
+      "options": "Putih,Hitam,Silver",
+      "description": "Tumbler Stainless Travel Mini kategori Tumbler, cocok untuk kebutuhan cetak custom, promosi, event, dan branding.",
+      "isActive": true,
+      "icon": "print_outlined",
+      "imageUrl": "https://zdxdarigmvwdmibuqeln.supabase.co/storage/v1/object/public/product-images/catalog/tumbler/tumbler-stainless-travel-mini-29dc7b7c09.webp",
+      "branchIds": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": 85,
+      "name": "Tumbler Tutup Kayu",
+      "price": 65000,
+      "unit": "pcs",
+      "options": "Putih,Hitam,Silver",
+      "description": "Tumbler Tutup Kayu kategori Tumbler, cocok untuk kebutuhan cetak custom, promosi, event, dan branding.",
+      "isActive": true,
+      "icon": "print_outlined",
+      "imageUrl": "https://zdxdarigmvwdmibuqeln.supabase.co/storage/v1/object/public/product-images/catalog/tumbler/tumbler-tutup-kayu-2c90b0c2d3.webp",
+      "branchIds": [
+        1,
+        2
+      ]
+    }
+  ]
+}

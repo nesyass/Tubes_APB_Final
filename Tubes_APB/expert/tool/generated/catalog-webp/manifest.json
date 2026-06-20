@@ -1,0 +1,689 @@
+{
+  "sourceDir": "C:\\Users\\syahr\\Downloads\\781x781 px-20260605T030155Z-3-001\\781x781 px",
+  "quality": 75,
+  "targetSize": 781,
+  "converter": "python-pillow",
+  "convertedAt": "2026-06-05T04:18:00.472Z",
+  "items": [
+    {
+      "source": "C:\\Users\\syahr\\Downloads\\781x781 px-20260605T030155Z-3-001\\781x781 px\\Digital Offset\\Agenda.jpg",
+      "output": "C:\\merged_partition_content\\Tubes_APB\\Tubes_APB\\expert\\tool\\generated\\catalog-webp\\Digital Offset\\Agenda.webp",
+      "category": "Digital Offset",
+      "name": "Agenda",
+      "sourceBytes": 785425,
+      "webpBytes": 56722
+    },
+    {
+      "source": "C:\\Users\\syahr\\Downloads\\781x781 px-20260605T030155Z-3-001\\781x781 px\\Digital Offset\\Booklet.jpg",
+      "output": "C:\\merged_partition_content\\Tubes_APB\\Tubes_APB\\expert\\tool\\generated\\catalog-webp\\Digital Offset\\Booklet.webp",
+      "category": "Digital Offset",
+      "name": "Booklet",
+      "sourceBytes": 945596,
+      "webpBytes": 67280
+    },
+    {
+      "source": "C:\\Users\\syahr\\Downloads\\781x781 px-20260605T030155Z-3-001\\781x781 px\\Digital Offset\\Brosur.jpg",
+      "output": "C:\\merged_partition_content\\Tubes_APB\\Tubes_APB\\expert\\tool\\generated\\catalog-webp\\Digital Offset\\Brosur.webp",
+      "category": "Digital Offset",
+      "name": "Brosur",
+      "sourceBytes": 947386,
+      "webpBytes": 70302
+    },
+    {
+      "source": "C:\\Users\\syahr\\Downloads\\781x781 px-20260605T030155Z-3-001\\781x781 px\\Digital Offset\\Buku.jpg",
+      "output": "C:\\merged_partition_content\\Tubes_APB\\Tubes_APB\\expert\\tool\\generated\\catalog-webp\\Digital Offset\\Buku.webp",
+      "category": "Digital Offset",
+      "name": "Buku",
+      "sourceBytes": 917049,
+      "webpBytes": 73170
+    },
+    {
+      "source": "C:\\Users\\syahr\\Downloads\\781x781 px-20260605T030155Z-3-001\\781x781 px\\Digital Offset\\Company Profile.jpg",
+      "output": "C:\\merged_partition_content\\Tubes_APB\\Tubes_APB\\expert\\tool\\generated\\catalog-webp\\Digital Offset\\Company Profile.webp",
+      "category": "Digital Offset",
+      "name": "Company Profile",
+      "sourceBytes": 884906,
+      "webpBytes": 66276
+    },
+    {
+      "source": "C:\\Users\\syahr\\Downloads\\781x781 px-20260605T030155Z-3-001\\781x781 px\\Digital Offset\\Cutting Sticker.jpg",
+      "output": "C:\\merged_partition_content\\Tubes_APB\\Tubes_APB\\expert\\tool\\generated\\catalog-webp\\Digital Offset\\Cutting Sticker.webp",
+      "category": "Digital Offset",
+      "name": "Cutting Sticker",
+      "sourceBytes": 1152383,
+      "webpBytes": 110132
+    },
+    {
+      "source": "C:\\Users\\syahr\\Downloads\\781x781 px-20260605T030155Z-3-001\\781x781 px\\Digital Offset\\Kalender Dinding.jpg",
+      "output": "C:\\merged_partition_content\\Tubes_APB\\Tubes_APB\\expert\\tool\\generated\\catalog-webp\\Digital Offset\\Kalender Dinding.webp",
+      "category": "Digital Offset",
+      "name": "Kalender Dinding",
+      "sourceBytes": 743308,
+      "webpBytes": 52542
+    },
+    {
+      "source": "C:\\Users\\syahr\\Downloads\\781x781 px-20260605T030155Z-3-001\\781x781 px\\Digital Offset\\Kalender Meja.jpg",
+      "output": "C:\\merged_partition_content\\Tubes_APB\\Tubes_APB\\expert\\tool\\generated\\catalog-webp\\Digital Offset\\Kalender Meja.webp",
+      "category": "Digital Offset",
+      "name": "Kalender Meja",
+      "sourceBytes": 907832,
+      "webpBytes": 70750
+    },
+    {
+      "source": "C:\\Users\\syahr\\Downloads\\781x781 px-20260605T030155Z-3-001\\781x781 px\\Digital Offset\\Kartu Nama.jpg",
+      "output": "C:\\merged_partition_content\\Tubes_APB\\Tubes_APB\\expert\\tool\\generated\\catalog-webp\\Digital Offset\\Kartu Nama.webp",
+      "category": "Digital Offset",
+      "name": "Kartu Nama",
+      "sourceBytes": 868613,
+      "webpBytes": 62682
+    },
+    {
+      "source": "C:\\Users\\syahr\\Downloads\\781x781 px-20260605T030155Z-3-001\\781x781 px\\Digital Offset\\Katalog.jpg",
+      "output": "C:\\merged_partition_content\\Tubes_APB\\Tubes_APB\\expert\\tool\\generated\\catalog-webp\\Digital Offset\\Katalog.webp",
+      "category": "Digital Offset",
+      "name": "Katalog",
+      "sourceBytes": 927557,
+      "webpBytes": 70650
+    },
+    {
+      "source": "C:\\Users\\syahr\\Downloads\\781x781 px-20260605T030155Z-3-001\\781x781 px\\Digital Offset\\Lanyard ID Card.jpg",
+      "output": "C:\\merged_partition_content\\Tubes_APB\\Tubes_APB\\expert\\tool\\generated\\catalog-webp\\Digital Offset\\Lanyard ID Card.webp",
+      "category": "Digital Offset",
+      "name": "Lanyard ID Card",
+      "sourceBytes": 944501,
+      "webpBytes": 69136
+    },
+    {
+      "source": "C:\\Users\\syahr\\Downloads\\781x781 px-20260605T030155Z-3-001\\781x781 px\\Digital Offset\\Poster.jpg",
+      "output": "C:\\merged_partition_content\\Tubes_APB\\Tubes_APB\\expert\\tool\\generated\\catalog-webp\\Digital Offset\\Poster.webp",
+      "category": "Digital Offset",
+      "name": "Poster",
+      "sourceBytes": 874801,
+      "webpBytes": 72088
+    },
+    {
+      "source": "C:\\Users\\syahr\\Downloads\\781x781 px-20260605T030155Z-3-001\\781x781 px\\Digital Offset\\Poster A0,A1,A2.jpg",
+      "output": "C:\\merged_partition_content\\Tubes_APB\\Tubes_APB\\expert\\tool\\generated\\catalog-webp\\Digital Offset\\Poster A0,A1,A2.webp",
+      "category": "Digital Offset",
+      "name": "Poster A0,A1,A2",
+      "sourceBytes": 1036161,
+      "webpBytes": 83284
+    },
+    {
+      "source": "C:\\Users\\syahr\\Downloads\\781x781 px-20260605T030155Z-3-001\\781x781 px\\Digital Offset\\Sertifikat.jpg",
+      "output": "C:\\merged_partition_content\\Tubes_APB\\Tubes_APB\\expert\\tool\\generated\\catalog-webp\\Digital Offset\\Sertifikat.webp",
+      "category": "Digital Offset",
+      "name": "Sertifikat",
+      "sourceBytes": 890517,
+      "webpBytes": 71198
+    },
+    {
+      "source": "C:\\Users\\syahr\\Downloads\\781x781 px-20260605T030155Z-3-001\\781x781 px\\Digital Offset\\Undangan.jpg",
+      "output": "C:\\merged_partition_content\\Tubes_APB\\Tubes_APB\\expert\\tool\\generated\\catalog-webp\\Digital Offset\\Undangan.webp",
+      "category": "Digital Offset",
+      "name": "Undangan",
+      "sourceBytes": 978738,
+      "webpBytes": 84932
+    },
+    {
+      "source": "C:\\Users\\syahr\\Downloads\\781x781 px-20260605T030155Z-3-001\\781x781 px\\Digital Offset\\Yasin.jpg",
+      "output": "C:\\merged_partition_content\\Tubes_APB\\Tubes_APB\\expert\\tool\\generated\\catalog-webp\\Digital Offset\\Yasin.webp",
+      "category": "Digital Offset",
+      "name": "Yasin",
+      "sourceBytes": 1053816,
+      "webpBytes": 88622
+    },
+    {
+      "source": "C:\\Users\\syahr\\Downloads\\781x781 px-20260605T030155Z-3-001\\781x781 px\\Display Promosi\\Backwall.jpg",
+      "output": "C:\\merged_partition_content\\Tubes_APB\\Tubes_APB\\expert\\tool\\generated\\catalog-webp\\Display Promosi\\Backwall.webp",
+      "category": "Display Promosi",
+      "name": "Backwall",
+      "sourceBytes": 483353,
+      "webpBytes": 45036
+    },
+    {
+      "source": "C:\\Users\\syahr\\Downloads\\781x781 px-20260605T030155Z-3-001\\781x781 px\\Display Promosi\\Door Frame Banner.jpg",
+      "output": "C:\\merged_partition_content\\Tubes_APB\\Tubes_APB\\expert\\tool\\generated\\catalog-webp\\Display Promosi\\Door Frame Banner.webp",
+      "category": "Display Promosi",
+      "name": "Door Frame Banner",
+      "sourceBytes": 452238,
+      "webpBytes": 36624
+    },
+    {
+      "source": "C:\\Users\\syahr\\Downloads\\781x781 px-20260605T030155Z-3-001\\781x781 px\\Display Promosi\\Event Desk.jpg",
+      "output": "C:\\merged_partition_content\\Tubes_APB\\Tubes_APB\\expert\\tool\\generated\\catalog-webp\\Display Promosi\\Event Desk.webp",
+      "category": "Display Promosi",
+      "name": "Event Desk",
+      "sourceBytes": 439782,
+      "webpBytes": 32166
+    },
+    {
+      "source": "C:\\Users\\syahr\\Downloads\\781x781 px-20260605T030155Z-3-001\\781x781 px\\Display Promosi\\Foam Board.jpg",
+      "output": "C:\\merged_partition_content\\Tubes_APB\\Tubes_APB\\expert\\tool\\generated\\catalog-webp\\Display Promosi\\Foam Board.webp",
+      "category": "Display Promosi",
+      "name": "Foam Board",
+      "sourceBytes": 468918,
+      "webpBytes": 42582
+    },
+    {
+      "source": "C:\\Users\\syahr\\Downloads\\781x781 px-20260605T030155Z-3-001\\781x781 px\\Display Promosi\\Mini Banner.jpg",
+      "output": "C:\\merged_partition_content\\Tubes_APB\\Tubes_APB\\expert\\tool\\generated\\catalog-webp\\Display Promosi\\Mini Banner.webp",
+      "category": "Display Promosi",
+      "name": "Mini Banner",
+      "sourceBytes": 436734,
+      "webpBytes": 36612
+    },
+    {
+      "source": "C:\\Users\\syahr\\Downloads\\781x781 px-20260605T030155Z-3-001\\781x781 px\\Display Promosi\\Poly Counter.jpg",
+      "output": "C:\\merged_partition_content\\Tubes_APB\\Tubes_APB\\expert\\tool\\generated\\catalog-webp\\Display Promosi\\Poly Counter.webp",
+      "category": "Display Promosi",
+      "name": "Poly Counter",
+      "sourceBytes": 400968,
+      "webpBytes": 29512
+    },
+    {
+      "source": "C:\\Users\\syahr\\Downloads\\781x781 px-20260605T030155Z-3-001\\781x781 px\\Display Promosi\\Popup Counter.jpg",
+      "output": "C:\\merged_partition_content\\Tubes_APB\\Tubes_APB\\expert\\tool\\generated\\catalog-webp\\Display Promosi\\Popup Counter.webp",
+      "category": "Display Promosi",
+      "name": "Popup Counter",
+      "sourceBytes": 390929,
+      "webpBytes": 30618
+    },
+    {
+      "source": "C:\\Users\\syahr\\Downloads\\781x781 px-20260605T030155Z-3-001\\781x781 px\\Display Promosi\\Roll Up Banner.jpg",
+      "output": "C:\\merged_partition_content\\Tubes_APB\\Tubes_APB\\expert\\tool\\generated\\catalog-webp\\Display Promosi\\Roll Up Banner.webp",
+      "category": "Display Promosi",
+      "name": "Roll Up Banner",
+      "sourceBytes": 547740,
+      "webpBytes": 50516
+    },
+    {
+      "source": "C:\\Users\\syahr\\Downloads\\781x781 px-20260605T030155Z-3-001\\781x781 px\\Display Promosi\\Tripod Banner.jpg",
+      "output": "C:\\merged_partition_content\\Tubes_APB\\Tubes_APB\\expert\\tool\\generated\\catalog-webp\\Display Promosi\\Tripod Banner.webp",
+      "category": "Display Promosi",
+      "name": "Tripod Banner",
+      "sourceBytes": 538862,
+      "webpBytes": 47886
+    },
+    {
+      "source": "C:\\Users\\syahr\\Downloads\\781x781 px-20260605T030155Z-3-001\\781x781 px\\Display Promosi\\Y Banner.jpg",
+      "output": "C:\\merged_partition_content\\Tubes_APB\\Tubes_APB\\expert\\tool\\generated\\catalog-webp\\Display Promosi\\Y Banner.webp",
+      "category": "Display Promosi",
+      "name": "Y Banner",
+      "sourceBytes": 559004,
+      "webpBytes": 51034
+    },
+    {
+      "source": "C:\\Users\\syahr\\Downloads\\781x781 px-20260605T030155Z-3-001\\781x781 px\\Large Format Printing\\Backdrop.jpg",
+      "output": "C:\\merged_partition_content\\Tubes_APB\\Tubes_APB\\expert\\tool\\generated\\catalog-webp\\Large Format Printing\\Backdrop.webp",
+      "category": "Large Format Printing",
+      "name": "Backdrop",
+      "sourceBytes": 657430,
+      "webpBytes": 58194
+    },
+    {
+      "source": "C:\\Users\\syahr\\Downloads\\781x781 px-20260605T030155Z-3-001\\781x781 px\\Large Format Printing\\Baliho.jpg",
+      "output": "C:\\merged_partition_content\\Tubes_APB\\Tubes_APB\\expert\\tool\\generated\\catalog-webp\\Large Format Printing\\Baliho.webp",
+      "category": "Large Format Printing",
+      "name": "Baliho",
+      "sourceBytes": 624996,
+      "webpBytes": 53348
+    },
+    {
+      "source": "C:\\Users\\syahr\\Downloads\\781x781 px-20260605T030155Z-3-001\\781x781 px\\Large Format Printing\\Cloth Banner.jpg",
+      "output": "C:\\merged_partition_content\\Tubes_APB\\Tubes_APB\\expert\\tool\\generated\\catalog-webp\\Large Format Printing\\Cloth Banner.webp",
+      "category": "Large Format Printing",
+      "name": "Cloth Banner",
+      "sourceBytes": 498376,
+      "webpBytes": 40428
+    },
+    {
+      "source": "C:\\Users\\syahr\\Downloads\\781x781 px-20260605T030155Z-3-001\\781x781 px\\Large Format Printing\\Neon Box.jpg",
+      "output": "C:\\merged_partition_content\\Tubes_APB\\Tubes_APB\\expert\\tool\\generated\\catalog-webp\\Large Format Printing\\Neon Box.webp",
+      "category": "Large Format Printing",
+      "name": "Neon Box",
+      "sourceBytes": 523469,
+      "webpBytes": 35176
+    },
+    {
+      "source": "C:\\Users\\syahr\\Downloads\\781x781 px-20260605T030155Z-3-001\\781x781 px\\Large Format Printing\\Print Canvas.jpg",
+      "output": "C:\\merged_partition_content\\Tubes_APB\\Tubes_APB\\expert\\tool\\generated\\catalog-webp\\Large Format Printing\\Print Canvas.webp",
+      "category": "Large Format Printing",
+      "name": "Print Canvas",
+      "sourceBytes": 849749,
+      "webpBytes": 64462
+    },
+    {
+      "source": "C:\\Users\\syahr\\Downloads\\781x781 px-20260605T030155Z-3-001\\781x781 px\\Large Format Printing\\Spanduk.jpg",
+      "output": "C:\\merged_partition_content\\Tubes_APB\\Tubes_APB\\expert\\tool\\generated\\catalog-webp\\Large Format Printing\\Spanduk.webp",
+      "category": "Large Format Printing",
+      "name": "Spanduk",
+      "sourceBytes": 642625,
+      "webpBytes": 54884
+    },
+    {
+      "source": "C:\\Users\\syahr\\Downloads\\781x781 px-20260605T030155Z-3-001\\781x781 px\\Merchandise\\Aksesoris Photobooth.jpg",
+      "output": "C:\\merged_partition_content\\Tubes_APB\\Tubes_APB\\expert\\tool\\generated\\catalog-webp\\Merchandise\\Aksesoris Photobooth.webp",
+      "category": "Merchandise",
+      "name": "Aksesoris Photobooth",
+      "sourceBytes": 1043337,
+      "webpBytes": 79756
+    },
+    {
+      "source": "C:\\Users\\syahr\\Downloads\\781x781 px-20260605T030155Z-3-001\\781x781 px\\Merchandise\\Asbak Sablon.jpg",
+      "output": "C:\\merged_partition_content\\Tubes_APB\\Tubes_APB\\expert\\tool\\generated\\catalog-webp\\Merchandise\\Asbak Sablon.webp",
+      "category": "Merchandise",
+      "name": "Asbak Sablon",
+      "sourceBytes": 795322,
+      "webpBytes": 51562
+    },
+    {
+      "source": "C:\\Users\\syahr\\Downloads\\781x781 px-20260605T030155Z-3-001\\781x781 px\\Merchandise\\Gantungan Kunci Pin.jpg",
+      "output": "C:\\merged_partition_content\\Tubes_APB\\Tubes_APB\\expert\\tool\\generated\\catalog-webp\\Merchandise\\Gantungan Kunci Pin.webp",
+      "category": "Merchandise",
+      "name": "Gantungan Kunci Pin",
+      "sourceBytes": 905142,
+      "webpBytes": 60546
+    },
+    {
+      "source": "C:\\Users\\syahr\\Downloads\\781x781 px-20260605T030155Z-3-001\\781x781 px\\Merchandise\\Jam Dinding.jpg",
+      "output": "C:\\merged_partition_content\\Tubes_APB\\Tubes_APB\\expert\\tool\\generated\\catalog-webp\\Merchandise\\Jam Dinding.webp",
+      "category": "Merchandise",
+      "name": "Jam Dinding",
+      "sourceBytes": 881969,
+      "webpBytes": 64602
+    },
+    {
+      "source": "C:\\Users\\syahr\\Downloads\\781x781 px-20260605T030155Z-3-001\\781x781 px\\Merchandise\\Jam Dinding Akrilik CUstom.jpg",
+      "output": "C:\\merged_partition_content\\Tubes_APB\\Tubes_APB\\expert\\tool\\generated\\catalog-webp\\Merchandise\\Jam Dinding Akrilik CUstom.webp",
+      "category": "Merchandise",
+      "name": "Jam Dinding Akrilik CUstom",
+      "sourceBytes": 866728,
+      "webpBytes": 64908
+    },
+    {
+      "source": "C:\\Users\\syahr\\Downloads\\781x781 px-20260605T030155Z-3-001\\781x781 px\\Merchandise\\Kipas Custom.jpg",
+      "output": "C:\\merged_partition_content\\Tubes_APB\\Tubes_APB\\expert\\tool\\generated\\catalog-webp\\Merchandise\\Kipas Custom.webp",
+      "category": "Merchandise",
+      "name": "Kipas Custom",
+      "sourceBytes": 867252,
+      "webpBytes": 61904
+    },
+    {
+      "source": "C:\\Users\\syahr\\Downloads\\781x781 px-20260605T030155Z-3-001\\781x781 px\\Merchandise\\Medali Akrilik Custom.jpg",
+      "output": "C:\\merged_partition_content\\Tubes_APB\\Tubes_APB\\expert\\tool\\generated\\catalog-webp\\Merchandise\\Medali Akrilik Custom.webp",
+      "category": "Merchandise",
+      "name": "Medali Akrilik Custom",
+      "sourceBytes": 944856,
+      "webpBytes": 73652
+    },
+    {
+      "source": "C:\\Users\\syahr\\Downloads\\781x781 px-20260605T030155Z-3-001\\781x781 px\\Merchandise\\Payung Branding.jpg",
+      "output": "C:\\merged_partition_content\\Tubes_APB\\Tubes_APB\\expert\\tool\\generated\\catalog-webp\\Merchandise\\Payung Branding.webp",
+      "category": "Merchandise",
+      "name": "Payung Branding",
+      "sourceBytes": 828749,
+      "webpBytes": 49756
+    },
+    {
+      "source": "C:\\Users\\syahr\\Downloads\\781x781 px-20260605T030155Z-3-001\\781x781 px\\Merchandise\\Pin Akrilik Peniti.jpg",
+      "output": "C:\\merged_partition_content\\Tubes_APB\\Tubes_APB\\expert\\tool\\generated\\catalog-webp\\Merchandise\\Pin Akrilik Peniti.webp",
+      "category": "Merchandise",
+      "name": "Pin Akrilik Peniti",
+      "sourceBytes": 881173,
+      "webpBytes": 61646
+    },
+    {
+      "source": "C:\\Users\\syahr\\Downloads\\781x781 px-20260605T030155Z-3-001\\781x781 px\\Merchandise\\Pin Bulat Peniti.jpg",
+      "output": "C:\\merged_partition_content\\Tubes_APB\\Tubes_APB\\expert\\tool\\generated\\catalog-webp\\Merchandise\\Pin Bulat Peniti.webp",
+      "category": "Merchandise",
+      "name": "Pin Bulat Peniti",
+      "sourceBytes": 830107,
+      "webpBytes": 51828
+    },
+    {
+      "source": "C:\\Users\\syahr\\Downloads\\781x781 px-20260605T030155Z-3-001\\781x781 px\\Merchandise\\Seminar Kit.jpg",
+      "output": "C:\\merged_partition_content\\Tubes_APB\\Tubes_APB\\expert\\tool\\generated\\catalog-webp\\Merchandise\\Seminar Kit.webp",
+      "category": "Merchandise",
+      "name": "Seminar Kit",
+      "sourceBytes": 1030854,
+      "webpBytes": 82810
+    },
+    {
+      "source": "C:\\Users\\syahr\\Downloads\\781x781 px-20260605T030155Z-3-001\\781x781 px\\Merchandise\\Topper Cake.jpg",
+      "output": "C:\\merged_partition_content\\Tubes_APB\\Tubes_APB\\expert\\tool\\generated\\catalog-webp\\Merchandise\\Topper Cake.webp",
+      "category": "Merchandise",
+      "name": "Topper Cake",
+      "sourceBytes": 1053513,
+      "webpBytes": 71246
+    },
+    {
+      "source": "C:\\Users\\syahr\\Downloads\\781x781 px-20260605T030155Z-3-001\\781x781 px\\Packaging\\Cup Plastik Sablon.jpg",
+      "output": "C:\\merged_partition_content\\Tubes_APB\\Tubes_APB\\expert\\tool\\generated\\catalog-webp\\Packaging\\Cup Plastik Sablon.webp",
+      "category": "Packaging",
+      "name": "Cup Plastik Sablon",
+      "sourceBytes": 571590,
+      "webpBytes": 32134
+    },
+    {
+      "source": "C:\\Users\\syahr\\Downloads\\781x781 px-20260605T030155Z-3-001\\781x781 px\\Packaging\\Cup Plastik Sablon Premium.jpg",
+      "output": "C:\\merged_partition_content\\Tubes_APB\\Tubes_APB\\expert\\tool\\generated\\catalog-webp\\Packaging\\Cup Plastik Sablon Premium.webp",
+      "category": "Packaging",
+      "name": "Cup Plastik Sablon Premium",
+      "sourceBytes": 588248,
+      "webpBytes": 34686
+    },
+    {
+      "source": "C:\\Users\\syahr\\Downloads\\781x781 px-20260605T030155Z-3-001\\781x781 px\\Packaging\\Hang Tag.jpg",
+      "output": "C:\\merged_partition_content\\Tubes_APB\\Tubes_APB\\expert\\tool\\generated\\catalog-webp\\Packaging\\Hang Tag.webp",
+      "category": "Packaging",
+      "name": "Hang Tag",
+      "sourceBytes": 617883,
+      "webpBytes": 30974
+    },
+    {
+      "source": "C:\\Users\\syahr\\Downloads\\781x781 px-20260605T030155Z-3-001\\781x781 px\\Packaging\\Kotak Kemasan.jpg",
+      "output": "C:\\merged_partition_content\\Tubes_APB\\Tubes_APB\\expert\\tool\\generated\\catalog-webp\\Packaging\\Kotak Kemasan.webp",
+      "category": "Packaging",
+      "name": "Kotak Kemasan",
+      "sourceBytes": 718128,
+      "webpBytes": 51030
+    },
+    {
+      "source": "C:\\Users\\syahr\\Downloads\\781x781 px-20260605T030155Z-3-001\\781x781 px\\Packaging\\Label Bento.jpg",
+      "output": "C:\\merged_partition_content\\Tubes_APB\\Tubes_APB\\expert\\tool\\generated\\catalog-webp\\Packaging\\Label Bento.webp",
+      "category": "Packaging",
+      "name": "Label Bento",
+      "sourceBytes": 694892,
+      "webpBytes": 51258
+    },
+    {
+      "source": "C:\\Users\\syahr\\Downloads\\781x781 px-20260605T030155Z-3-001\\781x781 px\\Packaging\\Label Hijab,Baju.jpg",
+      "output": "C:\\merged_partition_content\\Tubes_APB\\Tubes_APB\\expert\\tool\\generated\\catalog-webp\\Packaging\\Label Hijab,Baju.webp",
+      "category": "Packaging",
+      "name": "Label Hijab,Baju",
+      "sourceBytes": 656544,
+      "webpBytes": 41206
+    },
+    {
+      "source": "C:\\Users\\syahr\\Downloads\\781x781 px-20260605T030155Z-3-001\\781x781 px\\Packaging\\Paper Bag.jpg",
+      "output": "C:\\merged_partition_content\\Tubes_APB\\Tubes_APB\\expert\\tool\\generated\\catalog-webp\\Packaging\\Paper Bag.webp",
+      "category": "Packaging",
+      "name": "Paper Bag",
+      "sourceBytes": 538480,
+      "webpBytes": 27758
+    },
+    {
+      "source": "C:\\Users\\syahr\\Downloads\\781x781 px-20260605T030155Z-3-001\\781x781 px\\Packaging\\Standing Pouch.jpg",
+      "output": "C:\\merged_partition_content\\Tubes_APB\\Tubes_APB\\expert\\tool\\generated\\catalog-webp\\Packaging\\Standing Pouch.webp",
+      "category": "Packaging",
+      "name": "Standing Pouch",
+      "sourceBytes": 688488,
+      "webpBytes": 38498
+    },
+    {
+      "source": "C:\\Users\\syahr\\Downloads\\781x781 px-20260605T030155Z-3-001\\781x781 px\\Plakat\\Plakat Akrilik Hadiah.jpg",
+      "output": "C:\\merged_partition_content\\Tubes_APB\\Tubes_APB\\expert\\tool\\generated\\catalog-webp\\Plakat\\Plakat Akrilik Hadiah.webp",
+      "category": "Plakat",
+      "name": "Plakat Akrilik Hadiah",
+      "sourceBytes": 619995,
+      "webpBytes": 51958
+    },
+    {
+      "source": "C:\\Users\\syahr\\Downloads\\781x781 px-20260605T030155Z-3-001\\781x781 px\\Plakat\\Plakat Akrilik LED RGB.jpg",
+      "output": "C:\\merged_partition_content\\Tubes_APB\\Tubes_APB\\expert\\tool\\generated\\catalog-webp\\Plakat\\Plakat Akrilik LED RGB.webp",
+      "category": "Plakat",
+      "name": "Plakat Akrilik LED RGB",
+      "sourceBytes": 570001,
+      "webpBytes": 41770
+    },
+    {
+      "source": "C:\\Users\\syahr\\Downloads\\781x781 px-20260605T030155Z-3-001\\781x781 px\\Plakat\\Plakat Akrilik Premium.jpg",
+      "output": "C:\\merged_partition_content\\Tubes_APB\\Tubes_APB\\expert\\tool\\generated\\catalog-webp\\Plakat\\Plakat Akrilik Premium.webp",
+      "category": "Plakat",
+      "name": "Plakat Akrilik Premium",
+      "sourceBytes": 544673,
+      "webpBytes": 39474
+    },
+    {
+      "source": "C:\\Users\\syahr\\Downloads\\781x781 px-20260605T030155Z-3-001\\781x781 px\\Plakat\\Plakat Akrilik Tapak Fiber.jpg",
+      "output": "C:\\merged_partition_content\\Tubes_APB\\Tubes_APB\\expert\\tool\\generated\\catalog-webp\\Plakat\\Plakat Akrilik Tapak Fiber.webp",
+      "category": "Plakat",
+      "name": "Plakat Akrilik Tapak Fiber",
+      "sourceBytes": 488411,
+      "webpBytes": 35374
+    },
+    {
+      "source": "C:\\Users\\syahr\\Downloads\\781x781 px-20260605T030155Z-3-001\\781x781 px\\Plakat\\Plakat Akrilik Tapak Kayu.jpg",
+      "output": "C:\\merged_partition_content\\Tubes_APB\\Tubes_APB\\expert\\tool\\generated\\catalog-webp\\Plakat\\Plakat Akrilik Tapak Kayu.webp",
+      "category": "Plakat",
+      "name": "Plakat Akrilik Tapak Kayu",
+      "sourceBytes": 546207,
+      "webpBytes": 41494
+    },
+    {
+      "source": "C:\\Users\\syahr\\Downloads\\781x781 px-20260605T030155Z-3-001\\781x781 px\\Plakat\\Plakat Insert Paper.jpg",
+      "output": "C:\\merged_partition_content\\Tubes_APB\\Tubes_APB\\expert\\tool\\generated\\catalog-webp\\Plakat\\Plakat Insert Paper.webp",
+      "category": "Plakat",
+      "name": "Plakat Insert Paper",
+      "sourceBytes": 637094,
+      "webpBytes": 59780
+    },
+    {
+      "source": "C:\\Users\\syahr\\Downloads\\781x781 px-20260605T030155Z-3-001\\781x781 px\\Plakat\\Plakat Kotak Kuningan.jpg",
+      "output": "C:\\merged_partition_content\\Tubes_APB\\Tubes_APB\\expert\\tool\\generated\\catalog-webp\\Plakat\\Plakat Kotak Kuningan.webp",
+      "category": "Plakat",
+      "name": "Plakat Kotak Kuningan",
+      "sourceBytes": 537035,
+      "webpBytes": 38882
+    },
+    {
+      "source": "C:\\Users\\syahr\\Downloads\\781x781 px-20260605T030155Z-3-001\\781x781 px\\Plakat\\Plakat Kotak Songket.jpg",
+      "output": "C:\\merged_partition_content\\Tubes_APB\\Tubes_APB\\expert\\tool\\generated\\catalog-webp\\Plakat\\Plakat Kotak Songket.webp",
+      "category": "Plakat",
+      "name": "Plakat Kotak Songket",
+      "sourceBytes": 591143,
+      "webpBytes": 46538
+    },
+    {
+      "source": "C:\\Users\\syahr\\Downloads\\781x781 px-20260605T030155Z-3-001\\781x781 px\\Sablon Kaos & Garment\\Hoodie Sweater.jpg",
+      "output": "C:\\merged_partition_content\\Tubes_APB\\Tubes_APB\\expert\\tool\\generated\\catalog-webp\\Sablon Kaos & Garment\\Hoodie Sweater.webp",
+      "category": "Sablon Kaos & Garment",
+      "name": "Hoodie Sweater",
+      "sourceBytes": 756153,
+      "webpBytes": 35218
+    },
+    {
+      "source": "C:\\Users\\syahr\\Downloads\\781x781 px-20260605T030155Z-3-001\\781x781 px\\Sablon Kaos & Garment\\Kaos Sablon Custom Lusinan.jpg",
+      "output": "C:\\merged_partition_content\\Tubes_APB\\Tubes_APB\\expert\\tool\\generated\\catalog-webp\\Sablon Kaos & Garment\\Kaos Sablon Custom Lusinan.webp",
+      "category": "Sablon Kaos & Garment",
+      "name": "Kaos Sablon Custom Lusinan",
+      "sourceBytes": 664127,
+      "webpBytes": 35850
+    },
+    {
+      "source": "C:\\Users\\syahr\\Downloads\\781x781 px-20260605T030155Z-3-001\\781x781 px\\Sablon Kaos & Garment\\Kaos Sablon DTF Custom.jpg",
+      "output": "C:\\merged_partition_content\\Tubes_APB\\Tubes_APB\\expert\\tool\\generated\\catalog-webp\\Sablon Kaos & Garment\\Kaos Sablon DTF Custom.webp",
+      "category": "Sablon Kaos & Garment",
+      "name": "Kaos Sablon DTF Custom",
+      "sourceBytes": 698731,
+      "webpBytes": 33770
+    },
+    {
+      "source": "C:\\Users\\syahr\\Downloads\\781x781 px-20260605T030155Z-3-001\\781x781 px\\Sablon Kaos & Garment\\Kaos Sablon Printable.jpg",
+      "output": "C:\\merged_partition_content\\Tubes_APB\\Tubes_APB\\expert\\tool\\generated\\catalog-webp\\Sablon Kaos & Garment\\Kaos Sablon Printable.webp",
+      "category": "Sablon Kaos & Garment",
+      "name": "Kaos Sablon Printable",
+      "sourceBytes": 741149,
+      "webpBytes": 33442
+    },
+    {
+      "source": "C:\\Users\\syahr\\Downloads\\781x781 px-20260605T030155Z-3-001\\781x781 px\\Sablon Kaos & Garment\\Polo Shirt Bordir.jpg",
+      "output": "C:\\merged_partition_content\\Tubes_APB\\Tubes_APB\\expert\\tool\\generated\\catalog-webp\\Sablon Kaos & Garment\\Polo Shirt Bordir.webp",
+      "category": "Sablon Kaos & Garment",
+      "name": "Polo Shirt Bordir",
+      "sourceBytes": 837677,
+      "webpBytes": 31208
+    },
+    {
+      "source": "C:\\Users\\syahr\\Downloads\\781x781 px-20260605T030155Z-3-001\\781x781 px\\Sablon Kaos & Garment\\Sablon Reflective.jpg",
+      "output": "C:\\merged_partition_content\\Tubes_APB\\Tubes_APB\\expert\\tool\\generated\\catalog-webp\\Sablon Kaos & Garment\\Sablon Reflective.webp",
+      "category": "Sablon Kaos & Garment",
+      "name": "Sablon Reflective",
+      "sourceBytes": 672768,
+      "webpBytes": 38460
+    },
+    {
+      "source": "C:\\Users\\syahr\\Downloads\\781x781 px-20260605T030155Z-3-001\\781x781 px\\Sablon Kaos & Garment\\Selempang Wisuda.jpg",
+      "output": "C:\\merged_partition_content\\Tubes_APB\\Tubes_APB\\expert\\tool\\generated\\catalog-webp\\Sablon Kaos & Garment\\Selempang Wisuda.webp",
+      "category": "Sablon Kaos & Garment",
+      "name": "Selempang Wisuda",
+      "sourceBytes": 763069,
+      "webpBytes": 51354
+    },
+    {
+      "source": "C:\\Users\\syahr\\Downloads\\781x781 px-20260605T030155Z-3-001\\781x781 px\\Sablon Kaos & Garment\\Topi Rimba Bordir.jpg",
+      "output": "C:\\merged_partition_content\\Tubes_APB\\Tubes_APB\\expert\\tool\\generated\\catalog-webp\\Sablon Kaos & Garment\\Topi Rimba Bordir.webp",
+      "category": "Sablon Kaos & Garment",
+      "name": "Topi Rimba Bordir",
+      "sourceBytes": 689281,
+      "webpBytes": 35012
+    },
+    {
+      "source": "C:\\Users\\syahr\\Downloads\\781x781 px-20260605T030155Z-3-001\\781x781 px\\Sublime\\Bendera Drill Premium.jpg",
+      "output": "C:\\merged_partition_content\\Tubes_APB\\Tubes_APB\\expert\\tool\\generated\\catalog-webp\\Sublime\\Bendera Drill Premium.webp",
+      "category": "Sublime",
+      "name": "Bendera Drill Premium",
+      "sourceBytes": 701327,
+      "webpBytes": 37340
+    },
+    {
+      "source": "C:\\Users\\syahr\\Downloads\\781x781 px-20260605T030155Z-3-001\\781x781 px\\Sublime\\Bendera Printing.jpg",
+      "output": "C:\\merged_partition_content\\Tubes_APB\\Tubes_APB\\expert\\tool\\generated\\catalog-webp\\Sublime\\Bendera Printing.webp",
+      "category": "Sublime",
+      "name": "Bendera Printing",
+      "sourceBytes": 617015,
+      "webpBytes": 27578
+    },
+    {
+      "source": "C:\\Users\\syahr\\Downloads\\781x781 px-20260605T030155Z-3-001\\781x781 px\\Sublime\\Bendera Satin.jpg",
+      "output": "C:\\merged_partition_content\\Tubes_APB\\Tubes_APB\\expert\\tool\\generated\\catalog-webp\\Sublime\\Bendera Satin.webp",
+      "category": "Sublime",
+      "name": "Bendera Satin",
+      "sourceBytes": 664370,
+      "webpBytes": 31500
+    },
+    {
+      "source": "C:\\Users\\syahr\\Downloads\\781x781 px-20260605T030155Z-3-001\\781x781 px\\Sublime\\Bendera TC.jpg",
+      "output": "C:\\merged_partition_content\\Tubes_APB\\Tubes_APB\\expert\\tool\\generated\\catalog-webp\\Sublime\\Bendera TC.webp",
+      "category": "Sublime",
+      "name": "Bendera TC",
+      "sourceBytes": 656485,
+      "webpBytes": 33534
+    },
+    {
+      "source": "C:\\Users\\syahr\\Downloads\\781x781 px-20260605T030155Z-3-001\\781x781 px\\Sublime\\Hijab.jpg",
+      "output": "C:\\merged_partition_content\\Tubes_APB\\Tubes_APB\\expert\\tool\\generated\\catalog-webp\\Sublime\\Hijab.webp",
+      "category": "Sublime",
+      "name": "Hijab",
+      "sourceBytes": 722823,
+      "webpBytes": 34954
+    },
+    {
+      "source": "C:\\Users\\syahr\\Downloads\\781x781 px-20260605T030155Z-3-001\\781x781 px\\Sublime\\Sajadah.jpg",
+      "output": "C:\\merged_partition_content\\Tubes_APB\\Tubes_APB\\expert\\tool\\generated\\catalog-webp\\Sublime\\Sajadah.webp",
+      "category": "Sublime",
+      "name": "Sajadah",
+      "sourceBytes": 665020,
+      "webpBytes": 37012
+    },
+    {
+      "source": "C:\\Users\\syahr\\Downloads\\781x781 px-20260605T030155Z-3-001\\781x781 px\\Sublime\\Spanduk Kain Full Print.jpg",
+      "output": "C:\\merged_partition_content\\Tubes_APB\\Tubes_APB\\expert\\tool\\generated\\catalog-webp\\Sublime\\Spanduk Kain Full Print.webp",
+      "category": "Sublime",
+      "name": "Spanduk Kain Full Print",
+      "sourceBytes": 842995,
+      "webpBytes": 45550
+    },
+    {
+      "source": "C:\\Users\\syahr\\Downloads\\781x781 px-20260605T030155Z-3-001\\781x781 px\\Sublime\\Taplak Meja.jpg",
+      "output": "C:\\merged_partition_content\\Tubes_APB\\Tubes_APB\\expert\\tool\\generated\\catalog-webp\\Sublime\\Taplak Meja.webp",
+      "category": "Sublime",
+      "name": "Taplak Meja",
+      "sourceBytes": 582337,
+      "webpBytes": 24864
+    },
+    {
+      "source": "C:\\Users\\syahr\\Downloads\\781x781 px-20260605T030155Z-3-001\\781x781 px\\Sublime\\Umbul-umbul.jpg",
+      "output": "C:\\merged_partition_content\\Tubes_APB\\Tubes_APB\\expert\\tool\\generated\\catalog-webp\\Sublime\\Umbul-umbul.webp",
+      "category": "Sublime",
+      "name": "Umbul-umbul",
+      "sourceBytes": 902946,
+      "webpBytes": 50824
+    },
+    {
+      "source": "C:\\Users\\syahr\\Downloads\\781x781 px-20260605T030155Z-3-001\\781x781 px\\Tumbler\\Botol Sport Alumunium.jpg",
+      "output": "C:\\merged_partition_content\\Tubes_APB\\Tubes_APB\\expert\\tool\\generated\\catalog-webp\\Tumbler\\Botol Sport Alumunium.webp",
+      "category": "Tumbler",
+      "name": "Botol Sport Alumunium",
+      "sourceBytes": 763520,
+      "webpBytes": 37624
+    },
+    {
+      "source": "C:\\Users\\syahr\\Downloads\\781x781 px-20260605T030155Z-3-001\\781x781 px\\Tumbler\\Tumbler Set termos.jpg",
+      "output": "C:\\merged_partition_content\\Tubes_APB\\Tubes_APB\\expert\\tool\\generated\\catalog-webp\\Tumbler\\Tumbler Set termos.webp",
+      "category": "Tumbler",
+      "name": "Tumbler Set termos",
+      "sourceBytes": 697419,
+      "webpBytes": 36280
+    },
+    {
+      "source": "C:\\Users\\syahr\\Downloads\\781x781 px-20260605T030155Z-3-001\\781x781 px\\Tumbler\\Tumbler Stainless Ace.jpg",
+      "output": "C:\\merged_partition_content\\Tubes_APB\\Tubes_APB\\expert\\tool\\generated\\catalog-webp\\Tumbler\\Tumbler Stainless Ace.webp",
+      "category": "Tumbler",
+      "name": "Tumbler Stainless Ace",
+      "sourceBytes": 784803,
+      "webpBytes": 39720
+    },
+    {
+      "source": "C:\\Users\\syahr\\Downloads\\781x781 px-20260605T030155Z-3-001\\781x781 px\\Tumbler\\Tumbler Stainless Life.jpg",
+      "output": "C:\\merged_partition_content\\Tubes_APB\\Tubes_APB\\expert\\tool\\generated\\catalog-webp\\Tumbler\\Tumbler Stainless Life.webp",
+      "category": "Tumbler",
+      "name": "Tumbler Stainless Life",
+      "sourceBytes": 673761,
+      "webpBytes": 30704
+    },
+    {
+      "source": "C:\\Users\\syahr\\Downloads\\781x781 px-20260605T030155Z-3-001\\781x781 px\\Tumbler\\Tumbler Stainless Life LED.jpg",
+      "output": "C:\\merged_partition_content\\Tubes_APB\\Tubes_APB\\expert\\tool\\generated\\catalog-webp\\Tumbler\\Tumbler Stainless Life LED.webp",
+      "category": "Tumbler",
+      "name": "Tumbler Stainless Life LED",
+      "sourceBytes": 696289,
+      "webpBytes": 32822
+    },
+    {
+      "source": "C:\\Users\\syahr\\Downloads\\781x781 px-20260605T030155Z-3-001\\781x781 px\\Tumbler\\Tumbler Stainless Niagara.jpg",
+      "output": "C:\\merged_partition_content\\Tubes_APB\\Tubes_APB\\expert\\tool\\generated\\catalog-webp\\Tumbler\\Tumbler Stainless Niagara.webp",
+      "category": "Tumbler",
+      "name": "Tumbler Stainless Niagara",
+      "sourceBytes": 675364,
+      "webpBytes": 30892
+    },
+    {
+      "source": "C:\\Users\\syahr\\Downloads\\781x781 px-20260605T030155Z-3-001\\781x781 px\\Tumbler\\Tumbler Stainless Travel Mini.jpg",
+      "output": "C:\\merged_partition_content\\Tubes_APB\\Tubes_APB\\expert\\tool\\generated\\catalog-webp\\Tumbler\\Tumbler Stainless Travel Mini.webp",
+      "category": "Tumbler",
+      "name": "Tumbler Stainless Travel Mini",
+      "sourceBytes": 709103,
+      "webpBytes": 36160
+    },
+    {
+      "source": "C:\\Users\\syahr\\Downloads\\781x781 px-20260605T030155Z-3-001\\781x781 px\\Tumbler\\Tumbler Tutup Kayu.jpg",
+      "output": "C:\\merged_partition_content\\Tubes_APB\\Tubes_APB\\expert\\tool\\generated\\catalog-webp\\Tumbler\\Tumbler Tutup Kayu.webp",
+      "category": "Tumbler",
+      "name": "Tumbler Tutup Kayu",
+      "sourceBytes": 696283,
+      "webpBytes": 32754
+    }
+  ]
+}
